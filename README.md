@@ -15,4 +15,3 @@ minifying and combining JavaScript files, optimizing images and live browser syn
 -Author's Supervision: Comprehensive project management from start to finish.
 
 
-
