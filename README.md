@@ -1,10 +1,10 @@
-Project 1 - Interior Design Portfolio
+#Project 1 - Interior Design Portfolio
 Welcome to the GitHub repository for Elizabeth Dov's Interior Design Portfolio. 
 
-Overview:
+##Overview:
 This project showcases a modern interior design portfolio. It highlights various services offered, including unique and functional space designs tailored to individual client needs.
 
-Technologies Used:
+##Technologies Used:
 -HTML: Structure and content of the web pages.
 -CSS: Styling, layout, and responsive design.
 -JavaScript: Interactive features and dynamic content. Features
