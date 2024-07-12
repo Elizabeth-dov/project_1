@@ -13,8 +13,7 @@ This project showcases a modern interior design portfolio. It highlights various
 - **JavaScript**: Interactive features and dynamic content.
 - **SCSS**: Styling, layout, and responsive design.
 - **Gulp**: It helped me effectively manage and automate routine activities such as compiling CSS from preprocessors, minifying and combining JavaScript files, optimizing images, and live browser synchronization (live reloading).
-- **3D Visualizations**: Detailed and realistic previews of design projects.
-- **Author's Supervision**: Comprehensive project management from start to finish.
+
 
 
 
