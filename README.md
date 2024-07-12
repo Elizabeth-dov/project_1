@@ -21,3 +21,19 @@ This project showcases a modern interior design portfolio. It highlights various
 - **Responsive design**: The website adapts to various screen sizes.
 - **Interactive elements**: Using JavaScript to add dynamic features.
 - **Aesthetic appearance**: Careful use of CSS to create an attractive appearance.
+
+## How to View
+
+You can view the live project here (https://elizabeth-dov.github.io/project_1/).
+
+## Installation
+
+To run this project locally:
+
+Clone the repository:
+
+git clone https://github.com/elizabeth-dov/project_1.git 
+
+Navigate to the project directory:
+ 
+cd project_1
