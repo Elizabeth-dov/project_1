@@ -18,3 +18,7 @@ This project showcases a modern interior design portfolio. It highlights various
 
 
 
+## Functions
+- **Responsive design**: The website adapts to various screen sizes.
+- **Interactive elements**: Using JavaScript to add dynamic features.
+- **Aesthetic appearance**: Careful use of CSS to create an attractive appearance.
