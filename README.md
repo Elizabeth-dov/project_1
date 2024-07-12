@@ -4,7 +4,7 @@ Welcome to the GitHub repository for Elizabeth Dov's Interior Design Portfolio.
 
 ## Overview
 
-This project showcases a modern interior design portfolio. It highlights various services offered, including unique and functional space designs tailored to individual client needs.
+This project showcases a modern interior design portfolio. It highlights various services offered, including unique and functional space designs tailored to individual client needs.The website was designed and built using modern web technologies, including HTML, CSS and JavaScript, which allowed for a responsive and aesthetic appearance and dynamic functionality.
 
 ## Technologies Used
 
