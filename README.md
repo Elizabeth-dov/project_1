@@ -1,4 +1,4 @@
-# Project 1 - Interior Design Portfolio
+# Project 1 - Interior Design 
 
 Welcome to the GitHub repository for Elizabeth Dov's Interior Design Portfolio.
 
